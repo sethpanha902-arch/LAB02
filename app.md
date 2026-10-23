@@ -1,4 +1,3 @@
-
 quadrantChart
     title Five applications: timing vs availability
     x-axis Low timing demand --> High timing demand
