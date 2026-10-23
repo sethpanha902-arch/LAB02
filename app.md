@@ -1,3 +1,4 @@
+```mermaid
 quadrantChart
     title Five applications: timing vs availability
     x-axis Low timing demand --> High timing demand
@@ -11,3 +12,4 @@ quadrantChart
     Telegram: [0.50, 0.70]
     Moodle: [0.35, 0.60]
     Mobile Legends: [0.80, 0.70]
+```
